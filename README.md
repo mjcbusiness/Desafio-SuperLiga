@@ -73,9 +73,21 @@ Desafio-SuperLiga/
 ```
 dotnet --version
 ```
-
+---
 2. Clonar el repositorio
 
 ```
-
+git clone https://github.com/mjcbusiness/Desafio-SuperLiga.git
 ```
+---
+3. Colocar el archivo CSV
+   Copiar `socios.csv` en la raiz del proyecto, junto al `.csproj`
+---
+
+4. Correr el proyecto
+
+---
+
+# Autor
+**Jonatan Maximiliano Cari
+Desarrollador FullStack (.NET / Angular)**
